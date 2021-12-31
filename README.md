@@ -14,6 +14,7 @@ The financial departments of large companies often deal with foreign currency tr
 ## Visualizations
 
 _Forecasting Visualization_
+
 ![Settle vs Trend](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TS%20Analysis%20-%20Settle%20v%20Trend.PNG)
 
 ![Noise](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TSA-Settle%20Noise.PNG)
