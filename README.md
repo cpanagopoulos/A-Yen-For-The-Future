@@ -14,8 +14,20 @@ The financial departments of large companies often deal with foreign currency tr
 ## Visualizations
 
 _Forecasting Visualization_
+![Settle vs Trend](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TS%20Analysis%20-%20Settle%20v%20Trend.PNG)
 
+![Noise](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TSA-Settle%20Noise.PNG)
+
+![ARMA Resuts](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TSA-ARMA%20model%20results.PNG)
+
+![ARIMA Results](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TSA-ARIMA%20model%20results.PNG)
+
+![GARCH Results](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/TSA-Garch%20Model%20Results.PNG)
 
 _Linear Regression Visualizations_
+
+![1st 20 Predictions vs True Values](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/RA-1st_20_Predictions%20v%20True%20Values.PNG)
+
+![1st 20 Predictions vs 1st 20 Returns](https://github.com/cpanagopoulos/A-Yen-For-The-Future/blob/main/Visualizations/RA-1st_20_Predictions%20v%201st_20_Returns.PNG)
 
 - - -
