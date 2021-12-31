@@ -16,6 +16,6 @@ The financial departments of large companies often deal with foreign currency tr
 _Forecasting Visualization_
 
 
-## Linear Regression Visualizations ##
+_Linear Regression Visualizations_
 
 - - -
